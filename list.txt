@@ -1,66 +1,66 @@
-1,	http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
-2,	http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
-3,	http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-4,	http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-5,	http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-6,	http://159.75.85.63:8280/cctv4k.php
-7,	http://124.220.17.172/shijiebei/sjb.php?id=509s
-8,	http://111.29.9.35:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-9,	http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-10,	http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-11,	http://111.29.9.38:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-12,	http://111.29.9.39:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-13,	http://111.29.9.40:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-14,	http://111.29.9.41:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
-15,	http://live.cooltv.top/tv/aishang.php?id=cctv164k
-16,	https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
-17,	http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-18,	http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-19,	http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
-20,	http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8
-21,	http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-22,	http://117.136.156.36:80/000000001000/3000000010000005180/index.m3u8
-23,	http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-24,	http://117.136.156.69:80/000000001000/3000000010000005180/index.m3u8
-25,	http://39.135.42.201:80/000000001000/3000000010000005180/index.m3u8?
-26,	http://39.135.41.245/PLTV/88888888/224/3221226716/index.m3u8?
-27,	http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-28,	http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-29,	http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
-30,	http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
-31,	http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
-32,	http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=4075&extension=ts&play_token=f663dY0IBp
-33,	http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
-34,	http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
-35,	http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-36,	http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
-37,	http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-38,	http://tribaliptv.com:8080/Gustavo/123456/4930
-39,	http://tribaliptv.com:8080/Gustavo/123456/12401
-40,	http://tribaliptv.com:8080/Gustavo/123456/5195
-41,	http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-42,	http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-43,	http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
-44,	http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
-45,	http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
-46,	http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
-47,	http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
-48,	http://45.153.35.200:8001/play/a0b8
-49,	http://45.153.35.200:8001/play/a0b7
-50,	http://45.153.35.200:8001/play/a0ba
-51,	http://185.236.229.31:9981/play/a01d
-52,	http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
-53,	https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-54,	http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-55,	https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-56,	http://epg.112114.xyz/douyu/9249162
-57,	http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-58,	http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-59,	http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-60,	http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-61,	http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-62,	http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-63,	http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-64,	http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-65,	https://justsometime.gztv.com/sec/shenghuos.m3u8
-66,	http://159.75.85.63:5680/d/ad/playad.m3u8
+1,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+2,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
+3,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+4,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+5,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+6,http://159.75.85.63:8280/cctv4k.php
+7,http://124.220.17.172/shijiebei/sjb.php?id=509s
+8,http://111.29.9.35:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+9,http://111.29.9.36:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+10,http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+11,http://111.29.9.38:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+12,http://111.29.9.39:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+13,http://111.29.9.40:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+14,http://111.29.9.41:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+15,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+16,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
+17,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+18,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+19,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+20,http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8
+21,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+22,http://117.136.156.36:80/000000001000/3000000010000005180/index.m3u8
+23,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+24,http://117.136.156.69:80/000000001000/3000000010000005180/index.m3u8
+25,http://39.135.42.201:80/000000001000/3000000010000005180/index.m3u8?
+26,http://39.135.41.245/PLTV/88888888/224/3221226716/index.m3u8?
+27,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+28,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+29,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
+30,http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
+31,http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
+32,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=4075&extension=ts&play_token=f663dY0IBp
+33,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
+34,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+35,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
+36,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
+37,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+38,http://tribaliptv.com:8080/Gustavo/123456/4930
+39,http://tribaliptv.com:8080/Gustavo/123456/12401
+40,http://tribaliptv.com:8080/Gustavo/123456/5195
+41,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
+42,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+43,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
+44,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+45,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
+46,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
+47,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
+48,http://45.153.35.200:8001/play/a0b8
+49,http://45.153.35.200:8001/play/a0b7
+50,http://45.153.35.200:8001/play/a0ba
+51,http://185.236.229.31:9981/play/a01d
+52,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
+53,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+54,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+55,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+56,http://epg.112114.xyz/douyu/9249162
+57,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+58,http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+59,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+60,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+61,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+62,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+63,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+64,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+65,https://justsometime.gztv.com/sec/shenghuos.m3u8
+66,http://159.75.85.63:5680/d/ad/playad.m3u8
